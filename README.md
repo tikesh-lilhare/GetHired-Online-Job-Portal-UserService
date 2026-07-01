@@ -57,15 +57,8 @@ The User Service is one of the core microservices of the AI-Powered Job Portal. 
 
 ---
 
-## 📁 Project Structure
-<img width="510" height="812" alt="Screenshot 2026-06-30 195113" src="https://github.com/user-attachments/assets/a9d6e9b6-3c51-4a1e-91e2-3e5ec4e51c82" />
-
-
-
----
-
 ## UserService Microservice Architecture
-<img width="1536" height="1024" alt="ChatGPT Image Jul 1, 2026, 11_40_31 AM" src="https://github.com/user-attachments/assets/7a8a83c6-7371-4c95-ab8b-2430c265d11a" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 1, 2026, 11_40_31 AM" src="https://github.com/user-attachments/assets/0cc1b374-9908-4888-83b8-f17f74a98c43" />
 
 
 ---
